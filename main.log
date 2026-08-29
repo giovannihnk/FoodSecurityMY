@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.6.17)  28 AUG 2026 23:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.6.17)  29 AUG 2026 14:00
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -413,33 +413,42 @@ Package hyperref Info: Link coloring OFF on input line 30.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
+<figures/graphical_abstract.jpg, id=211, 1382.16376pt x 770.88pt>
+File: figures/graphical_abstract.jpg Graphic file (type jpg)
+<use figures/graphical_abstract.jpg>
+Package pdftex.def Info: figures/graphical_abstract.jpg  used on input line 57.
+
+(pdftex.def)             Requested size: 389.998pt x 246.81602pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 68.
+(hyperref)                removing `\<def>-command' on input line 79.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cnotenum' on input line 68.
+(hyperref)                removing `\cnotenum' on input line 79.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 68.
+(hyperref)                removing `\<def>-command' on input line 79.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@corref' on input line 68.
+(hyperref)                removing `\@corref' on input line 79.
 
 [1
 
-{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
+{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures/graph
+ical_abstract.jpg>] [2
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
 
 
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
 
 
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -454,185 +463,191 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.68 \end{frontmatter}
+l.79 \end{frontmatter}
                        [1
 
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <> on input line 68.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 79.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
-(Font)              size <5> substituted on input line 68.
+(Font)              size <5> substituted on input line 79.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 68.
+(Font)              size <5> substituted on input line 79.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 68.
+(Font)              size <5> substituted on input line 79.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 68.
+(Font)              size <5> substituted on input line 79.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 68.
+(Font)              size <5> substituted on input line 79.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 68.
+(Font)              size <5> substituted on input line 79.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 68.
+(Font)              size <5> substituted on input line 79.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 68.
+(Font)              size <5> substituted on input line 79.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 68.
+(Font)              size <5> substituted on input line 79.
 
-[2]
-Overfull \hbox (7.1578pt too wide) in paragraph at lines 135--146
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.133 
+       [2]
+Overfull \hbox (7.1578pt too wide) in paragraph at lines 146--157
 \T1/cmr/m/n/12 cial, po-lit-i-cal, and eco-nomic do-mains. Multi-criteria decis
 ion-making (MCDM)
  []
 
 [3]
-Overfull \hbox (1.7655pt too wide) in paragraph at lines 161--169
+Overfull \hbox (1.7655pt too wide) in paragraph at lines 172--180
 []\T1/cmr/m/n/12 A grow-ing body of re-search em-pha-sizes the role of in-tel-l
 i-gent early-warning
  []
 
-<figures/fig01.png, id=265, 548.0475pt x 173.14688pt>
+<figures/fig01.png, id=269, 548.0475pt x 173.14688pt>
 File: figures/fig01.png Graphic file (type png)
 <use figures/fig01.png>
-Package pdftex.def Info: figures/fig01.png  used on input line 174.
+Package pdftex.def Info: figures/fig01.png  used on input line 185.
 (pdftex.def)             Requested size: 390.00287pt x 123.2152pt.
 [4 <./figures/fig01.png>] [5]
-<figures/fig02.png, id=299, 385.44pt x 101.62968pt>
+<figures/fig02.png, id=304, 385.44pt x 101.62968pt>
 File: figures/fig02.png Graphic file (type png)
 <use figures/fig02.png>
-Package pdftex.def Info: figures/fig02.png  used on input line 291.
+Package pdftex.def Info: figures/fig02.png  used on input line 302.
 (pdftex.def)             Requested size: 389.99709pt x 102.83124pt.
  [6]
-<figures/fig03.png, id=305, 542.025pt x 152.06813pt>
+<figures/fig03.png, id=309, 542.025pt x 152.06813pt>
 File: figures/fig03.png Graphic file (type png)
 <use figures/fig03.png>
-Package pdftex.def Info: figures/fig03.png  used on input line 317.
+Package pdftex.def Info: figures/fig03.png  used on input line 328.
 (pdftex.def)             Requested size: 390.00958pt x 109.41934pt.
  [7 <./figures/fig02.png> <./figures/fig03.png>]
-<figures/fig04.png, id=314, 575.8605pt x 223.7085pt>
+<figures/fig04.png, id=318, 575.8605pt x 223.7085pt>
 File: figures/fig04.png Graphic file (type png)
 <use figures/fig04.png>
-Package pdftex.def Info: figures/fig04.png  used on input line 338.
+Package pdftex.def Info: figures/fig04.png  used on input line 349.
 (pdftex.def)             Requested size: 390.00711pt x 151.50874pt.
  [8 <./figures/fig04.png>]
-<figures/fig05.png, id=339, 582.759pt x 332.7705pt>
+<figures/fig05.png, id=343, 582.759pt x 332.7705pt>
 File: figures/fig05.png Graphic file (type png)
 <use figures/fig05.png>
-Package pdftex.def Info: figures/fig05.png  used on input line 385.
+Package pdftex.def Info: figures/fig05.png  used on input line 396.
 (pdftex.def)             Requested size: 390.00189pt x 222.70117pt.
  [9 <./figures/fig05.png>] [10]
-<figures/fig06.png, id=404, 562.35094pt x 164.11313pt>
+<figures/fig06.png, id=408, 562.35094pt x 164.11313pt>
 File: figures/fig06.png Graphic file (type png)
 <use figures/fig06.png>
-Package pdftex.def Info: figures/fig06.png  used on input line 452.
+Package pdftex.def Info: figures/fig06.png  used on input line 463.
 (pdftex.def)             Requested size: 389.99614pt x 113.81412pt.
  [11 <./figures/fig06.png>] [12] [13] [14]
-<figures/fig07.png, id=470, 1061.1645pt x 504.08325pt>
+<figures/fig07.png, id=474, 1061.1645pt x 504.08325pt>
 File: figures/fig07.png Graphic file (type png)
 <use figures/fig07.png>
-Package pdftex.def Info: figures/fig07.png  used on input line 650.
+Package pdftex.def Info: figures/fig07.png  used on input line 661.
 (pdftex.def)             Requested size: 409.49683pt x 219.3975pt.
 
-Overfull \hbox (19.49683pt too wide) in paragraph at lines 650--651
+Overfull \hbox (19.49683pt too wide) in paragraph at lines 661--662
  [][] 
  []
 
 [15] [16 <./figures/fig07.png>] [17] [18] [19]
-<figures/fig08.png, id=512, 599.23875pt x 161.85469pt>
+<figures/fig08.png, id=516, 599.23875pt x 161.85469pt>
 File: figures/fig08.png Graphic file (type png)
 <use figures/fig08.png>
-Package pdftex.def Info: figures/fig08.png  used on input line 822.
+Package pdftex.def Info: figures/fig08.png  used on input line 833.
 (pdftex.def)             Requested size: 390.00348pt x 105.34012pt.
 
-Underfull \hbox (badness 1112) in paragraph at lines 868--868
+Underfull \hbox (badness 1112) in paragraph at lines 879--879
 []|\T1/cmr/m/n/10.95 2. Data In-te-gra-tion
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 875--875
+Underfull \hbox (badness 1527) in paragraph at lines 886--886
 []|\T1/cmr/m/n/10.95 9. Bal-anc-ing Ac-cu-
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 875--875
+Underfull \hbox (badness 4303) in paragraph at lines 886--886
 \T1/cmr/m/n/10.95 racy with Com-pu-ta-
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 878--878
+Underfull \hbox (badness 2351) in paragraph at lines 889--889
 []|\T1/cmr/m/n/10.95 12. Socio-Economic
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 878--879
+Underfull \hbox (badness 2865) in paragraph at lines 889--890
 \T1/cmr/m/n/10.95 while ne-glect-ing socio-economic drivers
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 881--881
+Underfull \hbox (badness 1527) in paragraph at lines 892--892
 []|\T1/cmr/m/n/10.95 15. Tem-po-ral Data
  []
 
 
-Underfull \hbox (badness 6078) in paragraph at lines 882--882
+Underfull \hbox (badness 6078) in paragraph at lines 893--893
 []|\T1/cmr/m/n/10.95 16. Gen-er-al-iza-tion
  []
 
 [20 <./figures/fig08.png>] [21]
-<figures/fig09.png, id=554, 150.5625pt x 303.38344pt>
+<figures/fig09.png, id=558, 150.5625pt x 303.38344pt>
 File: figures/fig09.png Graphic file (type png)
 <use figures/fig09.png>
-Package pdftex.def Info: figures/fig09.png  used on input line 896.
+Package pdftex.def Info: figures/fig09.png  used on input line 907.
 (pdftex.def)             Requested size: 136.1069pt x 274.25543pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [22] [23 <./figures/fig09.png>]
-<figures/fig10.png, id=578, 184.43906pt x 303.38344pt>
+<figures/fig10.png, id=583, 184.43906pt x 303.38344pt>
 File: figures/fig10.png Graphic file (type png)
 <use figures/fig10.png>
-Package pdftex.def Info: figures/fig10.png  used on input line 979.
+Package pdftex.def Info: figures/fig10.png  used on input line 990.
 (pdftex.def)             Requested size: 166.73096pt x 274.25543pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [24] [25 <./figures/fig10.png>]
-Overfull \hbox (1.39226pt too wide) in paragraph at lines 1030--1050
+Overfull \hbox (1.39226pt too wide) in paragraph at lines 1041--1061
 []\T1/cmr/m/n/10.95 Food pro-duc-tion is in-creas-ingly vul-ner-a-ble to cli-ma
 te ex-tremes such as droughts,
  []
 
 [26] [27] [28] [29]
-<figures/fig11.png, id=660, 585.7155pt x 175.419pt>
+<figures/fig11.png, id=665, 585.7155pt x 175.419pt>
 File: figures/fig11.png Graphic file (type png)
 <use figures/fig11.png>
-Package pdftex.def Info: figures/fig11.png  used on input line 1229.
+Package pdftex.def Info: figures/fig11.png  used on input line 1240.
 (pdftex.def)             Requested size: 390.01428pt x 116.8074pt.
  [30 <./figures/fig11.png>] [31]
-<figures/fig12.png, id=688, 173.14688pt x 248.42813pt>
+<figures/fig12.png, id=692, 173.14688pt x 248.42813pt>
 File: figures/fig12.png Graphic file (type png)
 <use figures/fig12.png>
-Package pdftex.def Info: figures/fig12.png  used on input line 1315.
+Package pdftex.def Info: figures/fig12.png  used on input line 1326.
 (pdftex.def)             Requested size: 152.91397pt x 219.39832pt.
  [32 <./figures/fig12.png>]
 [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] (main.aux)
@@ -649,10 +664,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: A8EC51394D66D1A426212BA433181894;14774.
  ) 
 Here is how much of TeX's memory you used:
- 11698 strings out of 467509
- 177185 string characters out of 5410238
+ 11707 strings out of 467509
+ 177521 string characters out of 5410238
  602994 words of memory out of 5000000
- 40571 multiletter control sequences out of 15000+600000
+ 40580 multiletter control sequences out of 15000+600000
  647413 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,7n,79p,1586b,945s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -673,9 +688,9 @@ pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/PC/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/PC/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (44 pages, 1453549 bytes).
+Output written on main.pdf (45 pages, 2092505 bytes).
 PDF statistics:
- 1406 PDF objects out of 1440 (max. 8388607)
+ 1412 PDF objects out of 1440 (max. 8388607)
  220 named destinations out of 1000 (max. 500000)
- 477 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 482 words of extra memory for PDF output out of 10000 (max. 10000000)
 
